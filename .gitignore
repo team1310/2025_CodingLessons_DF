@@ -159,3 +159,6 @@ gradle-app.setting
 bin/
 imgui.ini
 
+
+# Ignore Gradle build output directory
+build
