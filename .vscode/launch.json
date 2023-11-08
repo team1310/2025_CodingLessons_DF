@@ -6,24 +6,10 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Launch HelloWithName",
+      "name": "HelloWorld",
       "request": "launch",
-      "mainClass": "main.java.hello.HelloWithName",
-      "projectName": "2024_CodingLessons_86e378f1"
-    },
-    {
-      "type": "java",
-      "name": "Launch HelloWorld",
-      "request": "launch",
-      "mainClass": "main.java.HelloWorld",
-      "projectName": "2024_CodingLessons_86e378f1"
-    },
-    {
-      "type": "java",
-      "name": "Launch Test",
-      "request": "launch",
-      "mainClass": "main.java.Test",
-      "projectName": "2024_CodingLessons_86e378f1"
+      "mainClass": "hello.HelloWorld",
+      "projectName": "2024_CodingLessons"
     }
   ]
 }
