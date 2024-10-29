@@ -6,6 +6,11 @@ public class HelloWorld {
 
         System.out.println("Hello World");
 
+        Circle c1   = new Circle();
+
+        double area = c1.getArea();
+        System.out.println(area);
     }
+
 
 }
